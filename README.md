@@ -16,6 +16,7 @@ Check out my portfolio site here: https://bob-pham.github.io/
  - C++
  - C#
  - HTML + CSS
+ - Java
  - JavaScript/TypeScript
  - LaTex
  - Python
