@@ -11,6 +11,9 @@ I am currently interested in internship opportunities. Message me for all inquir
 
 Check out my portfolio site here: https://bob-pham.github.io/ 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bob-pham&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bob-pham&langs_count=5&theme=tokyonight)]()
+
 🖥️Programming Languages: 
  - C
  - C++
