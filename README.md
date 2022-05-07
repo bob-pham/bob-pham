@@ -5,7 +5,6 @@ I am a second-year computer science student at the University of British Columbi
 🔧Active Projects:
  - Cornucopia
  - Rahzel
- - AdvancedHomeworkManager
 
 I am currently interested in internship opportunities. Message me for all inquiries and/or if you're interested in working together on a project! 
 
