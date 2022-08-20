@@ -1,6 +1,6 @@
 ### Hey, I'm Bob 👋
 
-I am a second-year computer science student at the University of British Columbia and an aspiring software engineer. I am passionate about programming and am continually striving to push my abilities to the next level, understand new technologies, and learn industry practices.
+I am a third-year honours computer science student at the University of British Columbia and an aspiring software engineer. I am passionate about programming and am continually striving to push my abilities to the next level, understand new technologies, and learn industry practices.
 
 🔧Active Projects:
  - Benten
