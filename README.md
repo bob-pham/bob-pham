@@ -4,6 +4,7 @@ I am a third-year honours computer science student at the University of British 
 
 🔧Active Projects:
  - Benten
+ - StorAI Teller
  - Rahzel
 
 I am currently interested in internship opportunities. Message me for all inquiries and/or if you're interested in working together on a project! 
